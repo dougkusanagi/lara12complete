@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "ougkusanagi/lara12complete",
+    "name": "dougkusanagi/lara12complete",
     "type": "project",
     "description": "The official Laravel starter kit for Livewire.",
     "keywords": [
