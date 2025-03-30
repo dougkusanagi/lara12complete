@@ -2,11 +2,17 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "dougkusanagi/lara12complete",
     "type": "project",
-    "description": "The official Laravel starter kit for Livewire.",
+    "description": "A very opinionated Laravel 12 starter kit.",
     "keywords": [
         "laravel",
-        "framework"
+        "framework",
+        "laravel-12"
     ],
+    "homepage": "https://github.com/dougkusanagi/lara12complete",
+    "support": {
+        "issues": "https://github.com/dougkusanagi/lara12complete/issues",
+        "source": "https://github.com/dougkusanagi/lara12complete"
+    },
     "license": "MIT",
     "require": {
         "php": "^8.2",
